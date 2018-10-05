@@ -3,8 +3,8 @@
   "description": "An Aurelia client application.",
   "version": "0.1.0",
   "repository": {
-    "type": "???",
-    "url": "???"
+    "type": "scoring",
+    "url": "https://github.com/dgilyaev/scoring.git"
   },
   "license": "MIT",
   "dependencies": {
